@@ -1,0 +1,4 @@
+mencatat transaksi secara detail
+melakukan pemisahan pph 21
+rekonsiliasi fiskal lapkeu
+mengecek inventory yang tersisa pada periode tertentu
